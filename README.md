@@ -31,6 +31,12 @@ How to run
 
 1.The 1.2-ns molecular dynamics simulations of 195 protein crystals were performed using Desmond 4.2 software. The size of the data of the MD simulations exceeded 140G. The Github's capacity is too small (~500M). We have selected the molecular dynamics data of two crystals (PDB ID:1a30 and 1bcu) as examples deposited on Baidu's Netdisk ( https://pan.baidu.com/s/1GVFzZD0fPYGhBDrxwROgVA; Extraction Code: jjgg ), which is available permanently.
 
-2.Download perl_scripts_for_MD_conformations.zip;
+2.Download perl_scripts_for_MD_conformations.zip; Unpacking；
+
+3.  ./perl_common_crystals;
+
+4.  ./perl_specific_crystals;
+
+5.Download perl_scripts_for_MD_conformations.zip; Unpacking； 
 
 
