@@ -5,6 +5,7 @@ Ensemble Scoring (ES) for protein crystal dynamics conformations using three sco
 
 
 Requirements
+
 1.Desmond 4.2
 2.DSX(https://agklebe.pharmazie.uni-marburg.de/?lang=en)
 3.X-Score(http://www.sioc-ccbg.ac.cn/?p=42&software=xscore&action=download)
@@ -13,7 +14,9 @@ Requirements
 6.Pymol 1.7
 
 Data set
+
 PDBbind core set v.2013(http://www.pdbbind.org.cn/index.php)
 
 How to run
+
 1.The 
