@@ -18,9 +18,11 @@ Requirements
 
 6.Pymol 1.7
 
+
 Data set
 
 PDBbind core set v.2013(http://www.pdbbind.org.cn/index.php)
+
 
 How to run
 
