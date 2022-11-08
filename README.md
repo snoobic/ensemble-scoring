@@ -4,6 +4,7 @@ Data processing in ensemble scoring
 Ensemble Scoring (ES) for protein crystal dynamics conformations using three scoring functions DSX (knowledge-based), X-Score (empirical), and ΔvinaRF20 (machine-learning-based). It only provides usage examples by scripts in the GitHub repository.
 
 
+
 Requirements
 
 1.Desmond 4.2
@@ -19,9 +20,11 @@ Requirements
 6.Pymol 1.7
 
 
+
 Data set
 
 PDBbind core set v.2013(http://www.pdbbind.org.cn/index.php)
+
 
 
 How to run
