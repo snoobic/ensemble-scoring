@@ -37,6 +37,12 @@ How to run
 
 4.  ./perl_specific_crystals;
 
-5.Download perl_scripts_for_MD_conformations.zip; Unpacking； 
+5.Download perl_scripts_for_scoring.zip; Unpacking； 
+
+6.  ./perl_DSX;
+ 
+7.  ./perl_X-Score;
+
+8.  ./perl_DeltaVina; 
 
 
