@@ -1,1 +1,0 @@
-perl_scripts_for_MD_conformations.zip filter=lfs diff=lfs merge=lfs -text
